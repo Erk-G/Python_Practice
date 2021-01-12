@@ -1,0 +1,723 @@
+| align= "left" | [[Sastasha]]
+| 15
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 17
+| -
+| align= "left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[It's Probably Pirates]] 
+|-
+| align="left"| [[The Tam-Tara Deepcroft]]
+| 16
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 17
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Fire in the Gloom]]
+|-
+| align="left"| [[Copperbell Mines]]
+| 17
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 17
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Into a Copper Hell]] 
+|-
+| align="left"| [[Halatali]]
+| 20
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 20
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Hallo Halatali]]
+|-
+| align="left"| [[Thousand Maws of Toto-Rak|The Thousand Maws of Toto-Rak]]
+| 24
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 24
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Into the Beast's Maw]]
+|-
+| align="left"| [[Haukke Manor]]
+| 28
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 28
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Skeletons In Her Closet]]
+|-
+| align="left"| [[Brayflox's Longstop]]
+| 32
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 32
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Things We Do for Cheese]]
+|-
+| align="left"| [[The Sunken Temple of Qarn]]
+| 35
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 37
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Braving New Depths]]
+|-
+| align="left"| [[Cutter's Cry]]
+| 38
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 40
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Dishonor Before Death]]
+|-
+| align="left"| [[The Stone Vigil]]
+| 41
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 43
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[In Pursuit of the Past]]
+|-
+| align="left"| [[Dzemael Darkhold]]
+| 44
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 46
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Fort of Fear]]
+|-
+| align="left"| [[The Aurum Vale]]
+| 47
+| -
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 49
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Going for Gold]]
+|-
+| align="left" | [[Castrum Meridianum]] <br><small>(8 Players)</small>
+| 50
+| 42
+| -
+| [[Duty Roulette#Duty Roulette: Main Scenario|Main Scenario]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 200
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Rock the Castrum]]
+|-
+| align="left" | [[The Praetorium]] <br><small>(8 Players)</small>
+| 50
+| 42
+| -
+| [[Duty Roulette#Duty Roulette: Main Scenario|Main Scenario]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 200
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Ultimate Weapon]]
+|-
+| align = "left" |[[The Wanderer's Palace]]
+| 50
+| 45
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 55
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Trauma Queen]]
+|-
+| align = "left" |[[Amdapor Keep]]
+| 50
+| 45
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 55
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Ghosts of Amdapor]]
+|-
+| align = "left" |[[Pharos Sirius]]
+| 50
+| 48
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 60
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 30
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Sirius Business]]
+|-
+| align = "left" |[[Copperbell Mines (Hard)]]
+| 50
+| 48
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 60
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 30
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Out of Sight, Out of Mine]]
+|-
+| align = "left" |[[Haukke Manor (Hard)]]
+| 50
+| 48
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 60
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 30
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Maniac Manor]]
+|-
+| align = "left" |[[The Lost City of Amdapor]]
+| 50
+| 55
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 70
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 40
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[One Night in Amdapor]]
+|-
+| align = "left" |[[Halatali (Hard)]]
+| 50
+| 55
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 70
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 40
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[This Time's for Fun]]
+|-
+| align = "left" |[[Brayflox's Longstop (Hard)]]
+| 50
+| 55
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 70
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 40
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Curds and Slay]]
+|-
+| align = "left" |[[Hullbreaker Isle]]
+| 50
+| 70
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 80
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 50
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[King of the Hull]]
+|-
+| align = "left" |[[The Stone Vigil (Hard)]]
+| 50
+| 70
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 80
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 50
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Blood for Stone]]
+|-
+| align = "left" |[[Tam-Tara Deepcroft (Hard)|The Tam-Tara Deepcroft (Hard)]]
+| 50
+| 70
+| 110
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 80
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 50
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Corpse Groom]]
+|-
+| align = "left" |[[Snowcloak]]
+| 50
+| 80
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 90
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 70
+| align = "left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Path of the Righteous]]
+|-
+| align = "left" |[[Sastasha (Hard)]]
+| 50
+| 80
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 90
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 70
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[It's Definitely Pirates]]
+|-
+| align = "left" |[[The Sunken Temple of Qarn (Hard)]]
+| 50
+| 80
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 90
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 70
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Wrath of Qarn]]
+|-
+| align="left" | [[The Keeper of the Lake]]
+| 50
+| 90
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 100
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 100
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Rising Chorus]]
+|-
+| align="left" | [[The Wanderer's Palace (Hard)]]
+| 50
+| 90
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 100
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 100
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Not Easy Being Green]]
+|-
+| align="left" | [[Amdapor Keep (Hard)]]
+| 50
+| 90
+| 130
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 100
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 100
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[For Keep's Sake]]
+|}
+
+==Heavensward Dungeons==
+{| {{STDT|sortable pve align-left}}
+! style="width:20%" | Heavensward
+! style="width:7%" | Level
+! style="width:7%" | Item Level Req
+! style="width:7%" | Item Level Sync
+! style="width:7%" | Roulette
+! style="width:7%" | Loot Item Level
+! style="width:7%" | [[Tomestones]]
+! style="width:20%" | Unlock
+|-
+| align="left" | [[The Dusk Vigil]]
+| 51
+| 100
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 120
+| -
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[For All the Nights to Come]]
+|-
+| align="left" | [[Sohm Al]]
+| 53
+| 105
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 130
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Mourn in Passing]]
+|-
+| align="left" | [[The Aery]]
+| 55
+| 110
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 136
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Into the Aery]]
+|-
+| align="left" | [[The Vault]]
+| 57
+| 115
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 142
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[A Knight's Calling]]
+|-
+| align="left" | [[The Great Gubal Library]]
+| 59
+| 120
+| 150
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 148
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Forbidden Knowledge]]
+|-
+| align="left" | [[The Aetherochemical Research Facility]]
+| 60
+| 142
+| 180
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 150
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Heavensward (Quest)]]
+|-
+| align="left" | [[Neverreap]]
+| 60
+| 145
+| 210
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 160
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Reap What You Sow]]
+|-
+| align="left" | [[The Fractal Continuum]]
+| 60
+| 145
+| 210
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 160
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Do It for Gilly]]
+|-
+| align="left" | [[Saint Mocianne's Arboretum]]
+| 60
+| 170
+| 240
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 185
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 30
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[An Overgrown Ambition]]
+|-
+| align="left" | [[Pharos Sirius (Hard)]]
+| 60
+| 170
+| 240
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 185
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 30
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Things Are Getting Sirius]]
+|-
+| align="left" | [[The Antitower]]
+| 60
+| 180
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 195
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 40
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Word of the Mother]]
+|-
+| align="left" | [[The Lost City of Amdapor (Hard)]]
+| 60
+| 180
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 195
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 40
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[One More Night in Amdapor]]
+|-
+| align="left" | [[Sohr Khai]]
+| 60
+| 200
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 215
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 50
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Winning Over the Wyrm]]
+|-
+| align="left" | [[Hullbreaker Isle (Hard)]]
+| 60
+| 200
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 215
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 50
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Storming the Hull]]
+|-
+| align="left" | [[Xelphatol]]
+| 60
+| 210
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 225
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 70
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Shadows of the First]]
+|-
+| align="left" | [[The Great Gubal Library (Hard)]]
+| 60
+| 210
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 225
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 70
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Let Me Gubal That for You]]
+|-
+| align="left" | [[Baelsar's Wall]]
+| 60
+| 230
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 245
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 100
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Griffin, Griffin on the Wall]]
+|-
+| align="left" | [[Sohm Al (Hard)]]
+| 60
+| 230
+| -
+| [[ Duty Roulette#Duty Roulette: Level 50/60|Level 50/60/70]]
+| 245
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 100
+| align="left"| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Fires of Sohm Al]]
+|-
+|}
+
+==Stormblood Dungeons==
+{| {{STDT|sortable pve align-left}}
+! style="width:20%" | Stormblood
+! style="width:7%" | Level
+! style="width:7%" | Item Level Req
+! style="width:7%" | Item Level Sync
+! style="width:7%" | Roulette
+! style="width:7%" | Loot Item Level
+! style="width:7%" | [[Tomestones]]
+! style="width:20%" | Unlock
+|-
+| align="left" | [[The Sirensong Sea]]
+| 61
+| 240
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 260
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[Not without Incident]]
+|-
+| align="left" | [[Shisui of the Violet Tides]]
+| 63
+| 245
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 270
+| -
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[The Palace of Lost Souls]]
+|-
+| align="left" | [[Bardam's Mettle]]
+| 65
+| 250
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 276
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[In the Footsteps of Bardam the Brave]]
+|-
+| align="left" | [[Doma Castle]]
+| 67
+| 255
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 282
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[The Die Is Cast]]
+|-
+| align="left" | [[Castrum Abania]]
+| 69
+| 260
+| 290
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 288
+| -
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Price of Freedom]]
+|-
+| align="left" | [[Ala Mhigo (Dungeon)|Ala Mhigo]]
+| 70
+| 280
+| 310
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 300
+| {{tomestone|poetics|20}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[Stormblood (Quest)|Stormblood]]
+|-
+| align="left" | [[Kugane Castle]]
+| 70
+| 280
+| 340
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 300
+| {{tomestone|poetics|20}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[King of the Castle]]
+|-
+| align="left" | [[The Temple of the Fist]]
+| 70
+| 280
+| 340
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 300
+| {{tomestone|poetics|20}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[To Kill a Coeurl]]
+|-
+| align="left" | [[The Drowned City of Skalla]]
+| 70
+| 300
+| 370
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 315
+| {{tomestone|poetics|30}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[The Mad King's Trove]]
+|-
+| align="left" | [[Hells' Lid]]
+| 70
+| 310
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 325
+| {{tomestone|poetics|40}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[An Auspicious Encounter]]
+|-
+| align="left" | [[The Fractal Continuum (Hard)]]
+| 70
+| 310
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 325
+| {{tomestone|poetics|40}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[An Unwanted Truth]]
+|-
+| align="left" | [[The Swallow's Compass]]
+| 70
+| 330
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 345
+| {{tomestone|poetics|50}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Tortoise in Time]]
+|-
+| align="left" | [[Saint Mocianne's Arboretum (Hard)]]
+| 70
+| 340
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 355
+| {{tomestone|poetics|70}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Secret of the Ooze]]
+|-
+| align="left" | [[The Burn]]
+| 70
+| 340
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 355
+| {{tomestone|poetics|70}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[Feel the Burn]]
+|-
+| align="left" | [[The Ghimlyt Dark]]
+| 70
+| 360
+| -
+| [[Duty Roulette#Duty Roulette: Level 50/60/70|Level 50/60/70]]
+| 375
+| {{tomestone|poetics|100}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]][[The Face of War]]
+|-
+|}
+
+==Shadowbringers Dungeons==
+{| {{STDT|sortable pve align-left}}
+! style="width:20%" | Shadowbringers
+! style="width:7%" | Level
+! style="width:7%" | Item Level Req
+! style="width:7%" | Item Level Sync
+! style="width:7%" | Roulette
+! style="width:7%" | Loot Item Level
+! style="width:7%" | [[Tomestones]]
+! style="width:20%" | Unlock
+|-
+| align="left" | [[Holminster Switch]]
+| 71
+| 370
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 390
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Lightwardens]]
+|-
+| align="left" | [[Dohn Mheg]]
+| 73
+| 375
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 400
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Key to the Castle]]
+|-
+| align="left" | [[The Qitana Ravel]]
+| 75
+| 380
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 406
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Burden of Knowledge]]
+|-
+| align="left" | [[Malikah's Well]]
+| 77
+| 385
+| -
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 412
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[A Fresh Start]]
+|-
+| align="left" | [[Mt. Gulg]]
+| 79
+| 390
+| 420
+| [[Duty Roulette#Duty Roulette: Leveling|Leveling]]
+| 418
+| -
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Extinguishing the Last Light]]
+|-
+| align="left" | [[Amaurot]]
+| 80
+| 410
+| 440
+| [[Duty Roulette#Duty Roulette: Level 80 Dungeons|Level 80]]
+| 430
+| {{tomestone|allegory|50}}<br>{{tomestone|revelation|20}}
+| align="left"| [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Shadowbringers (Quest)]]
+|-
+| align="left" | [[The Twinning]]
+| 80
+| 410
+| 470
+| [[Duty Roulette#Duty Roulette: Level 80 Dungeons|Level 80]]
+| 430
+| {{tomestone|allegory|50}}<br>{{tomestone|revelation|20}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[By the Time You Hear This]]
+|-
+| align="left" | [[Akadaemia Anyder]]
+| 80
+| 410
+| 470
+| [[Duty Roulette#Duty Roulette: Level 80 Dungeons|Level 80]]
+| 430
+| {{tomestone|allegory|50}}<br>{{tomestone|revelation|20}}
+| align="left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Akadaemia Anyder (Quest)]]
+|-
+| align="left" | [[The Grand Cosmos]]
+| 80
+| 430
+| 470
+| [[Duty Roulette#Duty Roulette: Level 80 Dungeons|Level 80]]
+| 445
+| {{tomestone|allegory|50}}<br>{{tomestone|revelation|20}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[A Grand Adventure]]
+|-
+| align="left" | [[Anamnesis Anyder]]
+| 80
+| 440
+| 500
+| [[Duty Roulette#Duty Roulette: Level 80 Dungeons|Level 80]]
+| 455
+| {{tomestone|allegory|60}}<br>{{tomestone|revelation|30}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Beneath the Surface]]
+|-
+| align="left" | [[The Heroes' Gauntlet]]
+| 80
+| 460
+| 500
+| [[Duty Roulette#Expert|Expert]]
+| 475
+| {{tomestone|allegory|80}}<br>{{tomestone|revelation|50}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Converging Light]]
+|-
+| align="left" | [[Matoya's Relict]]
+| 80
+| 470
+| -
+| [[Duty Roulette#Expert|Expert]]
+| 485
+| {{tomestone|allegory|80}}<br>{{tomestone|revelation|50}}
+| align="left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Like Master, Like Pupil]]
+|-
+|}

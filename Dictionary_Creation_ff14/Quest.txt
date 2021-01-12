@@ -1,0 +1,1011 @@
+
+==Seventh Umbral Era Quests==
+===Levels 1-15===
+====Gridania Quest Chain====
+These quests are for players whose chose to start the game as a [[Lancer]], [[Archer]], or [[Conjurer]].
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Close to Home (Gridania)}}
+{{quest list row|To the Bannock}}
+{{quest list row|Passing Muster}}
+{{quest list row|Chasing Shadows}}
+{{quest list row|Eggs over Queasy}}
+{{quest list row|Surveying the Damage}}
+{{quest list row|A Soldier's Breakfast}}
+{{quest list row|Spirithold Broken}}
+{{quest list row|On to Bentbranch}}
+{{quest list row|You Shall Not Trespass}}
+{{quest list row|Don't Look Down}}
+{{quest list row|In the Grim Darkness of the Forest}}
+{{quest list row|Threat Level Elevated}}
+{{quest list row|Migrant Marauders}}
+{{quest list row|A Hearer Is Often Late}}
+{{quest list row|Salvaging the Scene}}
+{{quest list row|Leia's Legacy}}
+{{quest list row|Dread Is in the Air}}
+{{quest list row|To Guard a Guardian}}
+{{quest list row|Festive Endeavors}}
+{{quest list row|Renewing the Covenant}}
+{{quest list row|The Gridanian Envoy}}
+{{quest list row|Call of the Sea (Gridania)}}
+{{table footer}}
+
+===Levels 15-20===
+All classes share the same Main Scenario Quests from this point onward.
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|It's Probably Pirates}}
+{{quest list row|Call of the Forest}}
+{{quest list row|Fire in the Gloom}}
+{{quest list row|Call of the Desert}}
+{{quest list row|Into a Copper Hell}}
+{{quest list row|The Scions of the Seventh Dawn (Quest)}}
+{{quest list row|A Wild Rose by Any Other Name}}
+{{quest list row|Unsolved Mystery}}
+{{quest list row|What Poor People Think}}
+{{quest list row|A Proper Burial}}
+{{quest list row|For the Children}}
+{{quest list row|Amalj'aa Wrong Places}}
+{{quest list row|Dressed to Deceive}}
+{{quest list row|Life, Materia and Everything}}
+{{quest list row|Lord of the Inferno}}
+{{quest list row|A Hero in the Making}}
+{{quest list row|The Company You Keep (Immortal Flames)}}
+{{quest list row|For Coin and Country}}
+{{quest list row|The Company You Keep (Maelstrom)}}
+{{quest list row|Till Sea Swallows All}}
+{{quest list row|The Company You Keep (Twin Adder)}}
+{{quest list row|Wood's Will Be Done}}
+{{quest list row|Sylph-management}}
+{{quest list row|We Come in Peace}}
+{{quest list row|Sylphic Studies}}
+{{quest list row|First Impressions (MSQ)}}
+{{table footer}}
+
+===Levels 21-30===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|First Contact}}
+{{quest list row|Dance Dance Diplomacy}}
+{{quest list row|Forest Friend}}
+{{quest list row|Presence of the Enemy}}
+{{quest list row|Brotherly Love}}
+{{quest list row|Spirited Away}}
+{{quest list row|Druthers House Rules}}
+{{quest list row|Never Forget}}
+{{quest list row|Microbrewing}}
+{{quest list row|Like Fine Wine}}
+{{quest list row|Sylphish Concerns}}
+{{quest list row|Nouveau Riche}}
+{{quest list row|Into the Beast's Maw}}
+{{quest list row|A Simple Gift}}
+{{quest list row|Believe in Your Sylph}}
+{{quest list row|Back from the Wood}}
+{{quest list row|Shadow of Darkness}}
+{{quest list row|Highbridge Times}}
+{{quest list row|Where There Is Smoke}}
+{{quest list row|On to Little Ala Mhigo}}
+{{quest list row|Tea for Three}}
+{{quest list row|Foot in the Door}}
+{{quest list row|Meeting with the Resistance}}
+{{quest list row|Killing Him Softly}}
+{{quest list row|Helping Horn}}
+{{quest list row|He Ain't Heavy}}
+{{quest list row|Come Highly Recommended}}
+{{quest list row|The Bear and the Young'uns' Cares}}
+{{quest list row|Wilred Wants You}}
+{{quest list row|Big Trouble in Little Ala Mhigo}}
+{{quest list row|Back to Square One}}
+{{quest list row|Terror at Fallgourd}}
+{{quest list row|Ziz Is So Ridiculous}}
+{{quest list row|Rock of Rancor}}
+{{quest list row|Seeing Eye to Winged Eye}}
+{{quest list row|Power of Deduction}}
+{{quest list row|Secret of the White Lily}}
+{{quest list row|Skeletons in Her Closet}}
+{{quest list row|Wrath of the Titan}}
+{{quest list row|Tales from the Tidus Slayer}}
+{{quest list row|Hungry Hungry Goobbues}}
+{{quest list row|The Lominsan Way}}
+{{quest list row|Nix That}}
+{{quest list row|A Modest Proposal}}
+{{quest list row|Trial by Turtle}}
+{{table footer}}
+
+===Levels 31-40===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Perfect Prey}}
+{{quest list row|When the Worm Turns}}
+{{quest list row|There and Back Again}}
+{{quest list row|The Things We Do for Cheese}}
+{{quest list row|What Do You Mean You Forgot the Wine}}
+{{quest list row|An Offer You Can Refuse}}
+{{quest list row|It Won't Work}}
+{{quest list row|Give a Man a Drink}}
+{{quest list row|That Weight}}
+{{quest list row|Battle Scars}}
+{{quest list row|It Was a Very Good Year}}
+{{quest list row|In the Company of Heroes}}
+{{quest list row|As You Wish}}
+{{quest list row|Lord of Crags}}
+{{quest list row|All Good Things}}
+{{quest list row|You Can't Take It with You}}
+{{quest list row|Bringing out the Dead}}
+{{quest list row|Bury Me Not on the Lone Prairie}}
+{{quest list row|Eyes on Me}}
+{{quest list row|He Who Waited Behind}}
+{{quest list row|Cold Reception}}
+{{quest list row|The Unending War}}
+{{quest list row|Men of Honor}}
+{{quest list row|Three for Three}}
+{{quest list row|The Rose and the Unicorn}}
+{{quest list row|The Talk of Coerthas}}
+{{quest list row|Road to Redemption}}
+{{quest list row|Following the Evidence}}
+{{quest list row|In the Eyes of Gods and Men}}
+{{quest list row|The Final Flight of the Enterprise}}
+{{quest list row|Ye of Little Faith}}
+{{quest list row|Factual Folklore}}
+{{quest list row|The Best Inventions}}
+{{quest list row|Influencing Inquisitors}}
+{{quest list row|By the Lights of Ishgard}}
+{{quest list row|Blood for Blood (Quest)}}
+{{quest list row|The Heretic among Us}}
+{{table footer}}
+
+===Levels 41-50===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|In Pursuit of the Past}}
+{{quest list row|Into the Eye of the Storm}}
+{{quest list row|Sealed with Science}}
+{{quest list row|With the Utmost Care}}
+{{quest list row|A Promising Prospect}}
+{{quest list row|It's Probably Not Pirates}}
+{{quest list row|Representing the Representative}}
+{{quest list row|The Reluctant Researcher}}
+{{quest list row|Sweet Somethings}}
+{{quest list row|History Repeating}}
+{{quest list row|The Curious Case of Giggity}}
+{{quest list row|Better Late than Never}}
+{{quest list row|Lady of the Vortex}}
+{{quest list row|Reclamation}}
+{{quest list row|Casing the Castrum}}
+{{quest list row|Eyes on the Empire}}
+{{quest list row|Footprints in the Snow}}
+{{quest list row|Monumental Hopes}}
+{{quest list row|Notorious Biggs}}
+{{quest list row|Come-Into-My-Castrum}}
+{{quest list row|Getting Even with Garlemald}}
+{{quest list row|Acting the Part}}
+{{quest list row|Dressed for Conquest}}
+{{quest list row|Drowning Out the Voices}}
+{{quest list row|Fool Me Twice (Quest)}}
+{{quest list row|Every Little Thing She Does Is Magitek}}
+{{quest list row|Escape from Castrum Centri}}
+{{quest list row|The Black Wolf's Ultimatum}}
+{{quest list row|Operation Archon}}
+{{quest list row|A Hero in Need}}
+{{quest list row|Hearts on Fire}}
+{{quest list row|Rock the Castrum}}
+{{quest list row|The Ultimate Weapon}}
+{{table footer}}
+
+==Seventh Astral Era Quests==
+===Patch 2.1 (A Realm Awoken)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Price of Principles}}
+{{quest list row|Moving On}}
+{{quest list row|All Things in Time}}
+{{quest list row|Laying the Foundation}}
+{{quest list row|It's Possibly a Primal}} 
+{{quest list row|Hail to the King, Kupo}}
+{{quest list row|You Have Selected Regicide}}
+{{quest list row|On the Properties of Primals}}
+{{quest list row|The Gifted}}
+{{quest list row|Build on the Stone}}
+{{table footer}}
+
+===Patch 2.2 (Through the Maelstrom)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Still Waters}}
+{{quest list row|A Final Temptation}}
+{{quest list row|The Mother of Exiles}}
+{{quest list row|Promises to Keep}}
+{{quest list row|Yugiri's Game}}
+{{quest list row|Why We Adventure}}
+{{quest list row|All Due Respect}}
+{{quest list row|The Sea Rises}}
+{{quest list row|Scouts in Distress}}
+{{quest list row|The Gift of Eternity}}
+{{quest list row|Into the Heart of the Whorl}}
+{{quest list row|Lord of the Whorl}}
+{{quest list row|When Yugiri Met the Fraternity}}
+{{quest list row|Through the Maelstrom}}
+{{table footer}}
+
+===Patch 2.3 (Defenders of Eorzea)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Great Divide}}
+{{quest list row|Desperate Times}}
+{{quest list row|Shock and Awe}}
+{{quest list row|Reap the Whirlwind}}
+{{quest list row|Revolution}}
+{{quest list row|Stories We Tell}}
+{{quest list row|Lord of Levin}}
+{{quest list row|Levin an Impression}}
+{{quest list row|What Little Gods are Made Of}}
+{{quest list row|Guardian of Eorzea}}
+{{quest list row|Recruiting the Realm}}
+{{quest list row|Heretical Harassment}}
+{{quest list row|When the Cold Sets In}}
+{{quest list row|Brave New Companions}}
+{{table footer}}
+
+===Patch 2.4 (Dreams of Ice)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Traitor in the Midst}}
+{{quest list row|Back and Fourth}}
+{{quest list row|Coming to Terms}}
+{{quest list row|The Intercession of Saints}}
+{{quest list row|Strength in Unity}}
+{{quest list row|Dark Words, Dark Deeds}}
+{{quest list row|First Blood}}
+{{quest list row|The Path of the Righteous}}
+{{quest list row|For the Greater Good}}
+{{quest list row|Tendrils of Intrigue}}
+{{quest list row|Chasing Ivy}}
+{{quest list row|In Flagrante Delicto}}
+{{quest list row|A Simple Plan}}
+{{quest list row|The Instruments of Our Deliverance}}
+{{quest list row|The Road Less Traveled}}
+{{quest list row|Eyes Unclouded}}
+{{quest list row|The Reason Roaille}}
+{{quest list row|Let Us Cling Together}}
+{{table footer}}
+
+===Patch 2.5 (Before the Fall - Part 1)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Good Intentions}}
+{{quest list row|Bait and Switch}}
+{{quest list row|Best Laid Schemes}}
+{{quest list row|The Rising Chorus}}
+{{quest list row|Aether on Demand}}
+{{quest list row|On the Counteroffensive}}
+{{quest list row|An Uninvited Ascian}}
+{{quest list row|In Memory of Moenbryda}}
+{{table footer}}
+
+===Patch 2.55 (Before the Fall - Part 2)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Mask of Grief}}
+{{quest list row|Defenders for Ishgard}}
+{{quest list row|The Wyrm's Roar}}
+{{quest list row|Committed to the Cause}}
+{{quest list row|Volunteer Dragonslayers}}
+{{quest list row|An Allied Perspective}}
+{{quest list row|The Steps of Faith (Quest)}}
+{{quest list row|Administrative Decision}}
+{{quest list row|An Unexpected Ambition}}
+{{quest list row|Ancient Ways, Timeless Wants}}
+{{quest list row|Where We Are Needed}}
+{{quest list row|The Least Among Us}}
+{{quest list row|A Time to Every Purpose}}
+{{quest list row|Come, but Not Gone}}
+{{quest list row|The Parting Glass}}
+{{quest list row|Before the Dawn}}
+{{table footer}}
+
+==Heavensward Main Scenario Quests==
+===Levels 50-51===
+====Main Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Coming to Ishgard}}
+{{quest list row|Taking in the Sights}}
+{{quest list row|The Better Half}}
+{{table footer}}
+
+====Artoirel Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Over the Wall}}
+{{quest list row|Work in Progress}}
+{{quest list row|The First and Foremost}}
+{{quest list row|From on High}}
+{{quest list row|Reconnaissance Lost}}
+{{quest list row|At the End of Our Hope}}
+{{quest list row|Knights Be Not Proud}}
+{{table footer}}
+
+====Emmanellain Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Onwards and Upwards}}
+{{quest list row|An Indispensable Ally}}
+{{quest list row|Meeting the Neighbors}}
+{{quest list row|Sense of Urgency}}
+{{quest list row|Hope Springs Eternal}}
+{{quest list row|A Series of Unfortunate Events}}
+{{quest list row|A Reward Long in Coming}}
+{{table footer}}
+
+====Main Quest Chain (Continued)====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Divine Intervention}}
+{{quest list row|Disclosure}}
+{{quest list row|Flame General Affairs}}
+{{quest list row|In Search of Raubahn}}
+{{quest list row|Keeping the Flame Alive}}
+{{quest list row|To Siege or Not to Siege}}
+{{quest list row|Alphinaud's Way}}
+{{quest list row|In Search of Iceheart}}
+{{quest list row|From One Heretic to Another}}
+{{quest list row|Sounding Out the Amphitheatre}}
+{{quest list row|Camp of the Convictors}}
+{{quest list row|Purple Flame, Purple Flame}}
+{{table footer}}
+
+===Levels 52-53===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Where the Chocobos Roam}}
+{{quest list row|Worse than Dragons}}
+{{quest list row|The Trine Towers}}
+{{quest list row|Gifts for the Outcasts}}
+{{quest list row|The Nonmind}}
+{{quest list row|A Gnathic Deity}}
+{{quest list row|Breaking into Hives}}
+{{quest list row|Lord of the Hive}}
+{{quest list row|Mourn in Passing}}
+{{quest list row|Beyond the Clouds}}
+{{table footer}}
+
+===Levels 54-55===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Mountaintop Diplomacy}}
+{{quest list row|Moghan's Trial}}
+{{quest list row|Mogmug's Trial}}
+{{quest list row|Mogwin's Trial}}
+{{quest list row|Moglin's Judgment}}
+{{quest list row|Leaving Moghome}}
+{{quest list row|The Road to Zenith}}
+{{quest list row|Waiting for the Wind to Change}}
+{{quest list row|Heart of Ice}}
+{{quest list row|The Wyrm's Lair}}
+{{quest list row|New Winds, Old Friends}}
+{{quest list row|A General Summons}}
+{{quest list row|Awakening in Ul'dah}}
+{{quest list row|A Brave Resolution}}
+{{quest list row|Ready to Fly}}
+{{quest list row|Into the Aery}}
+===Levels 56-57===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Unrest in Ishgard}}
+{{quest list row|He Who Would Not Be Denied}}
+{{quest list row|Ill-weather Friends}}
+{{quest list row|The Spice of Life}}
+{{quest list row|Noble Indiscretions}}
+{{quest list row|A Child Apart}}
+{{quest list row|Bloodlines}}
+{{quest list row|Fire and Blood}}
+{{quest list row|A Knight's Calling}}
+{{quest list row|The Sins of Antiquity}}
+{{quest list row|In Search of the Soleil}}
+{{quest list row|Into the Blue}}
+{{quest list row|Familiar Faces}}
+{{quest list row|Devourer of Worlds}}
+{{quest list row|Black and the White}}
+{{quest list row|Bolt, Chain, and Island}}
+{{quest list row|A Difference of Opinion}}
+{{quest list row|One Good Turn}}
+{{quest list row|An Engineering Enterprise}}
+{{quest list row|Aetherial Trail}}
+{{quest list row|Lost in the Lifestream}}
+{{quest list row|Tataru's Surprise}}
+{{quest list row|Onward to Sharlayan}}
+{{table footer}}
+
+===Levels 58-60===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|A Great New Nation}}
+{{quest list row|Golems Begone}}
+{{quest list row|An Illuminati Incident}}
+{{quest list row|Leaving Idyllshire}}
+{{quest list row|Matoya's Cave (Quest)}}
+{{quest list row|Forbidden Knowledge}}
+{{quest list row|An Eye for Aether}}
+{{quest list row|Hour of Departure}}
+{{quest list row|The First Flight of the Excelsior}}
+{{quest list row|Systematic Exploration}}
+{{quest list row|In Node We Trust}}
+{{quest list row|Chimerical Maintenance}}
+{{quest list row|Close Encounters of the VIth Kind}}
+{{quest list row|Fetters of Lament}}
+{{quest list row|Heavensward (Quest)}}
+{{table footer}}
+
+==Dragonsong War Quests==
+===Patch 3.1 (As Goes Light, So Goes Darkness)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|An Uncertain Future}}
+{{quest list row|Breaking the Cycle}}
+{{quest list row|Another Time, Another Place}}
+{{quest list row|In the Eye of the Beholder}}
+{{quest list row|A Little Slow, a Little Late}}
+{{quest list row|Dreams of the Lost}}
+{{quest list row|Against the Dying of the Light}}
+{{quest list row|As Goes Light, So Goes Darkness}}
+{{table footer}}
+
+===Patch 3.2 (The Gears of Change)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|As It Once Was}}
+{{quest list row|The Word of the Mother}}
+{{quest list row|This War of Ours}}
+{{quest list row|Staunch Conviction}}
+{{quest list row|Once More, a Favor}}
+{{quest list row|For Those We have Lost}}
+{{quest list row|Consequences}}
+{{quest list row|Choices}}
+{{quest list row|A Spectacle for the Ages}}
+{{quest list row|For Those We Can Yet Save}}
+{{quest list row|Causes and Costs}}
+{{table footer}}
+
+===Patch 3.3 (Revenge of the Horde)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Man Within}}
+{{quest list row|An Ally for Ishgard}}
+{{quest list row|Winning Over the Wyrm}}
+{{quest list row|An End to the Song}}
+{{quest list row|Heroes of the Hour}}
+{{quest list row|Litany of Peace}}
+{{table footer}}
+
+===Patch 3.4 (Soul Surrender)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Promises Kept}}
+{{quest list row|Shadows of the First}}
+{{quest list row|Two Sides of a Coin}}
+{{quest list row|Unlikely Allies}}
+{{quest list row|The Beast that Mourned at the Heart of the Mountain}}
+{{quest list row|Beneath a Star-filled Sky}}
+{{quest list row|When We Were Free}}
+{{quest list row|Honorable Heroes}}
+{{quest list row|One Life for One World}}
+{{quest list row|An Ending to Mark a New Beginning}}
+{{table footer}}
+
+===Patch 3.5 (The Far Edge of Fate - Part 1)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Tidings from Gyr Abania}}
+{{quest list row|An Envoy for Ishgard}}
+{{quest list row|An Allied Decision}}
+{{quest list row|Griffin, Griffin on the Wall}}
+{{quest list row|Louisoix's Finest Student}}
+{{table footer}}
+
+===Patch 3.56 (The Far Edge of Fate  - Part 2)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Obvious Solution}}
+{{quest list row|The Greater Obeisance}}
+{{quest list row|Fly Free, My Pretty}}
+{{quest list row|The Far Edge of Fate}}
+{{table footer}}
+
+==Stormblood Main Scenario Quests==
+===Levels 60-61===
+====Main Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Beyond the Great Wall}}
+{{quest list row|Lyse Takes the Lead}}
+{{quest list row|The Promise of a New Beginning}}
+{{quest list row|A Haven for the Bold}}
+{{quest list row|A Bargain Struck}}
+{{table footer}}
+
+====M'naago Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|A Friend of a Friend in Need}}
+{{quest list row|Signed, Sealed, to Be Delivered}}
+{{quest list row|Best Served with Cold Steel}}
+{{quest list row|Let Fill Your Hearts with Pride}}
+{{table footer}}
+
+====Meffrid Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|A Familiar Face Forgotten}}
+{{quest list row|The Prodigal Daughter}}
+{{quest list row|Hard Country}}
+{{quest list row|Death by a Thousand Rocks}}
+{{quest list row|A Life More Ordinary}}
+{{quest list row|The Color of Angry Qiqirn}}
+{{quest list row|The Black Wolf's Pups}}
+{{quest list row|Homeward Bound}}
+{{table footer}}
+
+====Main Quest Chain (Continued)====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Where Men Go as One}}
+{{quest list row|Future Rust, Future Dust}}
+{{quest list row|A Dash of Green}}
+{{quest list row|Ye Wayward Brothers}}
+{{quest list row|Token of Faith}}
+{{quest list row|Crossing the Velodyna}}
+{{quest list row|In Crimson It Began}}
+{{quest list row|The Fires Fade}}
+{{quest list row|Bereft of Hearth and Home}}
+{{quest list row|Divide and Conquer}}
+{{quest list row|Lies, Damn Lies, and Pirates}}
+{{quest list row|Tales from the Far East}}
+{{quest list row|Not without Incident}}
+{{quest list row|The Man from Ul'dah}}
+{{quest list row|Where the Streets Are Paved with Koban}}
+{{quest list row|By the Grace of Lord Lolorito}}
+{{quest list row|A Good Samurai Is Hard to Find}}
+{{quest list row|It's Probably a Trap}}
+{{quest list row|Making the Catfish Sing}}
+{{table footer}}
+
+===Levels 62-63===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Once More, to the Ruby Sea}}
+{{quest list row|Open Water}}
+{{quest list row|Boys with Boats}}
+{{quest list row|To Bend with the Wind}}
+{{quest list row|Confederate Consternation}}
+{{quest list row|The Solace of the Sea}}
+{{quest list row|The Arrows of Misfortune}}
+{{quest list row|The Last Voyage}}
+{{quest list row|Alisaie's Stones}}
+{{quest list row|Under the Sea}}
+{{quest list row|Of Kojin and Kami}}
+{{quest list row|In Soroban We Trust}}
+{{quest list row|Forever and Ever Apart}}
+{{quest list row|In Darkness the Magatama Dreams}}
+{{quest list row|The Whims of the Divine}}
+{{quest list row|Breaking and Delivering}}
+{{quest list row|The Lord of the Revel}}
+{{quest list row|Tide Goes in, Imperials Go Out}}
+{{quest list row|A Silence in Three Parts}}
+{{table footer}}
+
+===Levels 64-65===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Life after Doma}}
+{{quest list row|A Glimpse of Madness}}
+{{quest list row|The Stubborn Remainder}}
+{{quest list row|The Ones We Leave Behind}}
+{{quest list row|A New Ruby Tithe}}
+{{quest list row|The Will to Live}}
+{{quest list row|Daughter of the Deep}}
+{{quest list row|Path of No Return}}
+{{quest list row|The Time between the Seconds}}
+{{quest list row|All the Little Angels}}
+{{quest list row|Here There Be Xaela}}
+{{quest list row|The Search for Lord Hien}}
+{{quest list row|A Season for War}}
+{{quest list row|An Impossible Dream}}
+{{quest list row|Stars in the Dark}}
+{{quest list row|A Warrior's Welcome}}
+{{quest list row|The Heart of Nations}}
+{{quest list row|A Trial Before the Trial}}
+{{quest list row|In the Footsteps of Bardam the Brave}}
+{{quest list row|The Children of Azim}}
+{{table footer}}
+
+===Levels 66-67===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Labors of Magnai}}
+{{quest list row|For Love of the Moon}}
+{{quest list row|Sworn Enemies of the Sun}}
+{{quest list row|The Undying Ones}}
+{{quest list row|A Final Peace}}
+{{quest list row|As the Gods Will}}
+{{quest list row|Naadam}}
+{{quest list row|Glory to the Khagan}}
+{{quest list row|In Crimson They Walked}}
+{{quest list row|The Hour of Reckoning}}
+{{quest list row|The Room Where It Happened}}
+{{quest list row|How Tataru Got Her Groove Back}}
+{{quest list row|Seeds of Despair}}
+{{quest list row|The Limits of Our Endurance}}
+{{quest list row|Broken Steel, Broken Men}}
+{{quest list row|The Doma Within}}
+{{quest list row|On the Eve of Destiny}}
+{{quest list row|The Die Is Cast}}
+{{quest list row|The World Turned Upside Down}}
+{{quest list row|A Swift and Secret Departure}}
+{{quest list row|While You Were Away}}
+{{quest list row|Rhalgr's Beacon}}
+{{quest list row|The Fortunes of War}}
+{{quest list row|Rising Fortunes, Rising Spirits}}
+{{quest list row|The Lure of the Dream}}
+{{quest list row|The Lady of Bliss}}
+{{quest list row|The Silence of the Gods}}
+{{table footer}}
+
+===Levels 68-70===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The First of Many}}
+{{quest list row|Strong and Unified}}
+{{quest list row|Hells Open}}
+{{quest list row|Heavens Weep}}
+{{quest list row|The Road Home}}
+{{quest list row|For the Living and the Dead}}
+{{quest list row|Above the Churning Waters}}
+{{quest list row|The Path Forward}}
+{{quest list row|With Tired Hands We Toll}}
+{{quest list row|Where Courage Endures}}
+{{quest list row|The Price of Freedom}}
+{{quest list row|Raubahn's Invitation}}
+{{quest list row|Liberty or Death}}
+{{quest list row|The Lady in Red}}
+{{quest list row|Upon the Great Loch's Shore}}
+{{quest list row|The Key to Victory}}
+{{quest list row|The Resonant}}
+{{quest list row|The Legacy of Our Fathers}}
+{{quest list row|The Measure of His Reach}}
+{{quest list row|Stormblood (Quest)}}
+{{table footer}}
+
+==The Legend Returns Quests==
+===Patch 4.1 (The Legend Returns)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Arenvald's Adventure}}
+{{quest list row|The Darkness Below}}
+{{quest list row|The Mad King's Trove}}
+{{quest list row|The Butcher's Blood}}
+{{quest list row|Echoes of an Echo}}
+{{quest list row|A Sultana's Strings}}
+{{quest list row|A Sultana's Duty}}
+{{quest list row|A Sultana's Resolve}}
+{{quest list row|Securing the Saltery}}
+{{quest list row|A Blissful Arrival}}
+{{quest list row|Return of the Bull}}
+{{table footer}}
+
+===Patch 4.2 (Rise of a New Sun)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Tidings from the East}}
+{{quest list row|The Sword in the Store}}
+{{quest list row|Hope on the Waves}}
+{{quest list row|Elation and Trepidation}}
+{{quest list row|Storm on the Horizon}}
+{{quest list row|His Forgotten Home}}
+{{quest list row|A Guilty Conscience}}
+{{quest list row|Rise of a New Sun}}
+{{table footer}}
+
+===Patch 4.3 (Under the Moonlight)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Gosetsu and Tsuyu}}
+{{quest list row|Gone Like the Morning Dew}}
+{{quest list row|Fruits of Her Labor}}
+{{quest list row|Conscripts and Contingencies}}
+{{quest list row|The Primary Agreement}}
+{{quest list row|Under the Moonlight}}
+{{quest list row|Emissary of the Dawn}}
+{{table footer}}
+
+===Patch 4.4 (Prelude in Violet)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Sisterly Act}}
+{{quest list row|Feel the Burn}}
+{{quest list row|Shadows in the Empire}}
+{{quest list row|A Power in Slumber}}
+{{quest list row|The Will of the Moon}}
+{{quest list row|The Call}}
+{{quest list row|Prelude in Violet}}
+{{table footer}}
+
+===Patch 4.5 Part 1 (A Requiem for Heroes)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Soul Searching}}
+{{quest list row|A Defector's Tidings}}
+{{quest list row|Seiryu's Wall}}
+{{quest list row|Parley on the Front Lines}}
+{{quest list row|The Face of War}}
+{{table footer}}
+
+===Patch 4.56 Part 2 (A Requiem for Heroes)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|A Brief Reprieve}}
+{{quest list row|A Requiem for Heroes}}
+{{table footer}}
+
+==Shadowbringers Main Scenario Quests==
+===Levels 70-71===
+====Main Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Syrcus Trench}}
+{{quest list row|City of the First}}
+{{quest list row|Travelers of Norvrandt}}
+{{table footer}}
+
+====Alphinaud Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|In Search of Alphinaud}}
+{{quest list row|A Still Tide}}
+{{quest list row|Open Arms, Closed Gate}}
+{{quest list row|A Fickle Existence}}
+{{quest list row|City of Final Pleasures}}
+{{quest list row|Free to Sightsee}}
+{{quest list row|A Taste of Honey}}
+{{quest list row|A Blessed Instrument}}
+{{quest list row|Emergent Splendor}}
+{{table footer}}
+
+====Alisaie Quest Chain====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|In Search of Alisaie}}
+{{quest list row|City of the Mord}}
+{{quest list row|Working Off the Meal}}
+{{quest list row|A Desert Crossing}}
+{{quest list row|Following in Her Footprints}}
+{{quest list row|Culling Their Ranks}}
+{{quest list row|A Purchase of Fruit}}
+{{quest list row|The Time Left to Us}}
+{{quest list row|Tears on the Sand}}
+{{table footer}}
+
+====Main Quest Chain (Continued)====
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Lightwardens}}
+{{quest list row|Warrior of Darkness (Quest)}}
+{{table footer}}
+
+===Levels 72-73===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|An Unwelcome Guest}}
+{{quest list row|The Crystarium's Resolve}}
+{{quest list row|Logistics of War}}
+{{quest list row|The Oracle of Light}}
+{{quest list row|Il Mheg, the Faerie Kingdom}}
+{{quest list row|Sul Uin's Request}}
+{{quest list row|Ys Iala's Errand}}
+{{quest list row|Oul Sigun's Plea}}
+{{quest list row|Unto the Truth}}
+{{quest list row|Courting Cooperation}}
+{{quest list row|The Key to the Castle}}
+{{quest list row|A Visit to the Nu Mou}}
+{{quest list row|A Fitting Payment}}
+{{quest list row|Spore Sweeper}}
+{{quest list row|The Lawless Ones}}
+{{quest list row|The Elder's Answer}}
+{{quest list row|A Resounding Roar}}
+{{quest list row|Memento of a Friend}}
+{{quest list row|Acht-la Ormh Inn}}
+{{quest list row|The Wheel Turns}}
+{{table footer}}
+
+===Levels 74-75===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|A Party Soon Divided}}
+{{quest list row|A Little Faith}}
+{{quest list row|Into the Dark}}
+{{quest list row|A Day in the Neighborhood}}
+{{quest list row|A Helping Hand}}
+{{quest list row|Lost but Not Forgotten}}
+{{quest list row|Saying Goodbye}}
+{{quest list row|Stirring up Trouble}}
+{{quest list row|A Beeautiful Plan}}
+{{quest list row|An Unwanted Proposal}}
+{{quest list row|Put to the Proof}}
+{{quest list row|Into the Wood}}
+{{quest list row|Top of the Tree}}
+{{quest list row|Look to the Stars}}
+{{quest list row|Mi Casa, Toupasa}}
+{{quest list row|Legend of the Not-so-hidden Temple}}
+{{quest list row|The Aftermath}}
+{{quest list row|In Good Faith}}
+{{quest list row|The Burden of Knowledge}}
+{{quest list row|Bearing With It}}
+{{table footer}}
+
+===Levels 76-77===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Out of the Wood}}
+{{quest list row|When It Rains}}
+{{quest list row|Word from On High}}
+{{quest list row|Small Favors}}
+{{quest list row|The Best Way Out}}
+{{quest list row|Free Trade}}
+{{quest list row|The Trolley Problem}}
+{{quest list row|Rust and Ruin}}
+{{quest list row|On Track}}
+{{quest list row|Down for Maintenance}}
+{{quest list row|The Truth Hurts}}
+{{quest list row|A Convenient Distraction}}
+{{quest list row|A Dirty Job}}
+{{quest list row|Have a Heart}}
+{{quest list row|Full Steam Ahead}}
+{{quest list row|Crossroads}}
+{{quest list row|A Fresh Start}}
+{{quest list row|More than a Hunch}}
+{{quest list row|Return to Eulmore}}
+{{quest list row|A Feast of Lies}}
+{{quest list row|Paradise Fallen}}
+{{table footer}}
+
+===Levels 78-80===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|The Ladder}}
+{{quest list row|The View from Above}}
+{{quest list row|In Mt. Gulg's Shadow}}
+{{quest list row|A Gigantic Undertaking}}
+{{quest list row|Meet the Tholls}}
+{{quest list row|A-Digging We Will Go}}
+{{quest list row|The Duergar's Tewel}}
+{{quest list row|Rich Veins of Hope}}
+{{quest list row|That None Shall Ever Again}}
+{{quest list row|A Breath of Respite}}
+{{quest list row|Extinguishing the Last Light}}
+{{quest list row|Reassuring the Masses}}
+{{quest list row|In His Garden}}
+{{quest list row|The Unbroken Thread}}
+{{quest list row|To Storm-tossed Seas}}
+{{quest list row|Waiting in the Depths}}
+{{quest list row|City of the Ancients}}
+{{quest list row|The Light of Inspiration}}
+{{quest list row|The Illuminated Land}}
+{{quest list row|The End of a World}}
+{{quest list row|A Greater Purpose}}
+{{quest list row|Shadowbringers (Quest)}}
+{{table footer}}
+
+==[[Post-Shadowbringers_Main_Scenario_Quests|Post-Shadowbringers Main Scenario Quests]]==
+===Patch 5.1 (Vows of Virtue, Deeds of Cruelty)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Shaken Resolve}}
+{{quest list row|A Grand Adventure}}
+{{quest list row|A Welcome Guest}}
+{{quest list row|Good for the Soul}}
+{{quest list row|Nowhere to Turn}}
+{{quest list row|A Notable Absence}}
+{{quest list row|For the People}}
+{{quest list row|Finding Good Help}}
+{{quest list row|Moving Forward}}
+{{quest list row|Vows of Virtue, Deeds of Cruelty}}
+{{table footer}}
+
+=== Patch 5.2 (Echoes of a Fallen Star)===
+
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|Old Enemies, New Threats}}
+{{quest list row|The Way Home}}
+{{quest list row|Seeking Counsel}}
+{{quest list row|Facing the Truth}}
+{{quest list row|A Sleep Disturbed}}
+{{quest list row|An Old Friend}}
+{{quest list row|Deep Designs}}
+{{quest list row|A Whale's Tale}}
+{{quest list row|Beneath the Surface}}
+{{quest list row|Echoes of a Fallen Star}}
+{{table footer}}
+
+=== Patch 5.3 (Reflections in Crystal)===
+{{quest list header
+| unlocks = y
+}}
+{{quest list row|In the Name of the Light}}
+{{quest list row|Heroic Dreams}}
+{{quest list row|Fraying Threads}}
+{{quest list row|Food for the Soul}}
+{{quest list row|Faded Memories}}
+{{quest list row|Etched in the Stars}}
+{{quest list row|The Converging Light}}
+{{quest list row|Hope's Confluence}}
+{{quest list row|Nothing Unsaid}}
+{{quest list row|The Journey Continues}}
+{{quest list row|Unto the Morrow}}
+{{quest list row|Reflections in Crystal}}
+{{table footer}}
+
+=== Patch 5.4 (Futures Rewritten)===
+{{quest list header
+|unlocks = u
+}}
+
+{{quest list row|Alisaie's Quest}}
+{{quest list row|The Wisdom of Allag}}
+{{quest list row|Reviving the Legacy}}
+{{quest list row|Forget Us Not}}
+{{quest list row|Like Master, Like Pupil}}
+{{quest list row|The Admiral's Resolve}}
+{{quest list row|The Search for Sicard}}
+{{quest list row|On Rough Seas}}
+{{quest list row|The Great Ship Vylbrand}}
+{{quest list row|Futures Rewritten}}
+{{table footer}}
