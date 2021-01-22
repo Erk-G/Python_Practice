@@ -1,0 +1,529 @@
+|-
+| [[The Bowl of Embers]]
+| 20-22
+| -
+| 4
+| [[Ifrit]]
+| [[Duty Roulette#leveling roulette|Leveling]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Lord of the Inferno]]
+|-
+| [[The Navel]]
+| 34-36
+| -
+| 4
+| [[Titan]]
+| [[Duty Roulette#leveling roulette|Leveling]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Lord of Crags]]
+|-
+| [[The Howling Eye]]
+| 44-46
+| -
+| 4
+| [[Garuda]]
+| [[Duty Roulette#leveling roulette|Leveling]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Lady of the Vortex]]
+|-
+| [[Cape Westwind]]
+| 49
+| -
+| 8
+| [[Rihtahtyn sas Arvina]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Operation Archon]]
+|-
+| [[A Relic Reborn: The Chimera]]
+| 50
+| 52
+| 8
+| [[Chimera]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[A Relic Reborn]]
+|-
+| [[A Relic Reborn: The Hydra]]
+| 50
+| 52
+| 8
+| [[Hydra]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[A Relic Reborn]]
+|-
+| [[Battle on the Big Bridge]]
+| 50
+| 50
+| 8
+| [[Gilgamesh]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Three Collectors]]
+|-
+| [[The Dragon's Neck]]
+| 50
+| 80
+| 8
+| [[Ultros]] & [[Typhon]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Coliseum Conundrum]]
+|-
+| [[Battle in the Big Keep]]
+| 50
+| 90
+| 8
+| [[Gilgamesh]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Her Last Vow]]
+|-
+| [[The Bowl of Embers (Hard)]]
+| 50
+| 49
+| 8
+| [[Ifrit]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 12
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Ifrit Bleeds, We Can Kill It]]
+|-
+| [[The Howling Eye (Hard)]]
+| 50
+| 52
+| 8
+| [[Garuda]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 12
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[In For Garuda Awakening]]
+|-
+| [[The Navel (Hard)]]
+| 50
+| 57
+| 8
+| [[Titan]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[In a Titan Spot]]
+|-
+| [[Thornmarch (Hard)]]
+| 50
+| 54
+| 8
+| [[Good King Moggle Mog XII]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 12
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[You Have Selected Regicide]]
+|-
+| [[The Whorleater (Hard)]]
+| 50
+| 60
+| 8
+| [[Leviathan]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Lord of the Whorl]]
+|-
+| [[The Striking Tree (Hard)]]
+| 50
+| 65
+| 8
+| [[Ramuh]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[Levin an Impression]]
+|-
+| [[Akh Afah Amphitheatre (Hard)]]
+| 50
+| 80
+| 8
+| [[Shiva]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[The Instruments of Our Deliverance‎]]
+|-
+| [[The Chrysalis]]
+| 50
+| 90
+| 8
+| [[Nabriales]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[An Uninvited Ascian]]
+|-
+| [[The Steps of Faith]]
+| 50
+| 90
+| 8
+| [[Vishap]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Quest]] [[The Steps of Faith (Quest)]]
+|-
+| [[Urth's Fount]]
+| 50
+| 95
+| 8
+| [[Odin]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Fear and Odin in the Shroud]]
+|-
+|}
+
+==High-end Trials (A Realm Reborn)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[The Minstrel's Ballad: Ultima's Bane]]
+| 50
+| 61
+| 8
+| [[Ultima Weapon]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Ultimate Ballad]]
+|-
+| [[The Howling Eye (Extreme)]]
+| 50
+| 65
+| 8
+| [[Garuda]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Gale-force Warning]]
+|-
+| [[The Navel (Extreme)]]
+| 50
+| 67
+| 8
+| [[Titan]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Quake Me Up Before You O'Ghomoro]]
+|-
+| [[The Bowl of Embers (Extreme)]]
+| 50
+| 67
+| 8
+| [[Ifrit]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Ifrit Ain't Broke]]
+|-
+| [[Thornmarch (Extreme)]]
+| 50
+| 80
+| 8
+| [[Good King Moggle Mog XII]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The King Lives]]
+|-
+| [[The Whorleater (Extreme)]]
+| 50
+| 80
+| 8
+| [[Leviathan]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Whorl of a Time]]
+|-
+| [[The Striking Tree (Extreme)]]
+| 50
+| 85
+| 8
+| [[Ramuh]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Judgment Bolts and Lightning]]
+|-
+| [[Akh Afah Amphitheatre (Extreme)]]
+| 50
+| 95
+| 8
+| [[Shiva]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 22
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Drop Dead Shiva]]
+|-
+|}
+
+==Trials (Heavensward)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[Thok ast Thok (Hard)]]
+| 53-54
+| -
+| 8
+| [[Ravana]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|25px|Main Scenario Quest]] [[Lord of the Hive]]
+|-
+| [[The Limitless Blue (Hard)]]
+| 57-58
+| -
+| 8
+| [[Bismarck]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| -
+| style="text-align: left" | [[File:Mainscenarioquest.png|25px|Main Scenario Quest]] [[Bolt, Chain, and Island]]
+|-
+| [[The Singularity Reactor]]
+| 60
+| 142
+| 8
+| [[King Thordan]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Mainscenarioquest.png|25px|Main Scenario Quest]] [[Heavensward (Quest)]]
+|-
+| [[Containment Bay S1T7]]
+| 60
+| 190
+| 8
+| [[Sephirot]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[When the Bough Wakes]]
+|-
+| [[The Final Steps of Faith]]
+| 60
+| 205
+| 8
+| [[Nidhogg]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 10
+| style="text-align: left" | [[File:Mainscenarioquest.png|25px|Main Scenario Quest]] [[An End to the Song]]
+|-
+| [[Containment Bay P1T6]]
+| 60
+| 220
+| 8
+| [[Sophia]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Balance unto All]]
+|-
+| [[Containment Bay Z1T9]]
+| 60
+| 235
+| 8
+| [[Zurvan]]
+| [[Duty_Roulette#Duty_Roulette:_Trials|Trials]]
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Last Pillar to Fall]]
+|-
+|}
+
+==High-end Trials (Heavensward)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[The Limitless Blue (Extreme)]]
+| 60
+| 165
+| 8
+| [[Bismarck]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[The Diabolical Bismarck]]
+|-
+| [[Thok ast Thok (Extreme)]]
+| 60
+| 175
+| 8
+| [[Ravana]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 15
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Thok Around the Clock]]
+|-
+| [[The Minstrel's Ballad: Thordan's Reign]]
+| 60
+| 190
+| 8
+| [[King Thordan]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Thordan's Reign]]
+|-
+| [[Containment Bay S1T7 (Extreme)]]
+| 60
+| 205
+| 8
+| [[Sephirot]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[A Fiendish Likeness]]
+|-
+| [[The Minstrel's Ballad: Nidhogg's Rage]]
+| 60
+| 220
+| 8
+| [[Nidhogg]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 20
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Nidhogg's Rage]]
+|-
+| [[Containment Bay P1T6 (Extreme)]]
+| 60
+| 235
+| 8
+| [[Sophia]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 25
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[A Deific Simulacrum]]
+|-
+| [[Containment Bay Z1T9 (Extreme)]]
+| 60
+| 250
+| 8
+| [[Zurvan]]
+| -
+| [[File:Poetics icon1.png|link=Allagan Tomestone of Poetics|20px|Allagan Tomestone of Poetics]] 25
+| style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[A Demonic Duplicate]]
+|-
+|}
+
+==Trials (Stormblood)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[The Pool of Tribute]] || 63 || - || 8 || [[Susano]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || - || style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Scenario Quest]] [[The Lord of the Revel]]
+|-
+| [[Emanation]] || 67 || - || 8 || [[Lakshmi]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || - || style="text-align: left" | [[File:Mainscenarioquest.png|link=Quests|25px|Main Scenario Quest]] [[The Lady of Bliss]]
+|-
+| [[The Royal Menagerie]] || 70 || 280 || 8 || [[Shinryu]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|12}} || style="text-align: left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Stormblood (Quest)|Stormblood]]
+|-
+| [[The Jade Stoa]] || 70 || 325 || 8 || [[Byakko]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|12}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[An Auspicious Encounter]]
+|-
+| [[Castrum Fluminis]] || 70 || 335 || 8 || [[Tsukuyomi]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|12}} || style="text-align: left" | [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[The Primary Agreement]]
+|-
+| [[The Great Hunt]] || 70 || 320 || 8 || [[Rathalos]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|10}} || style="text-align: left" | [[File:sidequest.png|link=Side Quests|25px|Side Quest]] [[The New King on the Block]]
+|-
+| [[Hells' Kier]] || 70 || 355 || 8 || [[Suzaku]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|15}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[The Fire-bird Down Below]]
+|-
+| [[The Wreath of Snakes]] || 70 || 365 || 8 || [[Seiryu]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|15}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Surpassing the Samurai]]
+|-
+| [[Kugane Ohashi]] || 70 || 365 || 8 || [[Gilgamesh]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|poetics|10}} || style="text-align: left" | [[File:sidequest.png|link=Side Quests|25px|Side Quest]][[The Past Is Never Past]]
+|-
+|}
+
+==High-end Trials (Stormblood)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[Emanation (Extreme)]] || 70 || 300 || 8 || [[Lakshmi]] || - || {{tomestone|poetics|15}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Pool of Tribute (Extreme)]] || 70 || 300 || 8 || [[Susano]] || - || {{tomestone|poetics|15}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Minstrel's Ballad: Shinryu's Domain]] || 70 || 320 || 8 || [[Shinryu]] || - || {{tomestone|poetics|20}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Jade Stoa (Extreme)]] || 70 || 340 || 8 || [[Byakko]] || - || {{tomestone|poetics|20}} || style="text-align:left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Minstrel's Ballad: Tsukuyomi's Pain]] || 70 || 350 || 8 || [[Tsukuyomi]] || - || {{tomestone|poetics|20}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Great Hunt (Extreme)]] || 70 || 350 || 4 || [[Rathalos]] || - || {{tomestone|poetics|15}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[The Newer King on the Block]]
+|-
+| [[Hells' Kier (Extreme)]] || 70 || 370 || 8 || [[Suzaku]] || - || {{tomestone|poetics|25}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+| [[The Wreath of Snakes (Extreme)]] || 70 || 380 || 8 || [[Seiryu]] || - || {{tomestone|poetics|25}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Songs in the Key of Kugane]]
+|-
+|}
+
+==Trials (Shadowbringers)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[The Dancing Plague]] || 73 || - || 8 || [[Titania]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || - ||style="text-align: left" |  [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Acht-la Ormh Inn]]
+|-
+| [[The Crown of the Immaculate]] || 79 || - || 8 || [[Innocence]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || - ||style="text-align: left" |  [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Extinguishing the Last Light]]
+|-
+| [[The Dying Gasp]] || 80 || 410 || 8 || [[Hades]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|allegory|10}}<br>{{tomestone|revelation|5}} ||style="text-align: left" |  [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Shadowbringers (Quest)]]
+|-
+| [[Cinder Drift]] || 80 || 455 || 8 || [[Ruby Weapon]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|allegory|12}}<br>{{tomestone|revelation|6}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Ruby Doomsday]]
+|-
+| [[The Seat of Sacrifice]] || 80 || 465 || 8 || [[Warrior of Light]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|allegory|12}}<br>{{tomestone|revelation|7}} ||style="text-align: left" |  [[File:Mainscenarioquest.png|link=Main Scenario Quests|25px|Main Scenario Quest]] [[Hope's Confluence]]
+|-
+| [[Castrum Marinum]] || 80 || 485 || 8 || [[The Emerald Weapon]] || [[Duty_Roulette#Duty_Roulette:_Trials|Trials]] || {{tomestone|allegory|12}}<br>{{tomestone|revelation|8}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]] [[Blood of Emerald]]
+|-
+|}
+
+==High-end Trials (Shadowbringers)==
+{| {{STDT|sortable pve align-left}}
+! Name
+! data-sort-type="number"| Level
+! data-sort-type="number"| iLevel
+! Party
+! Boss 
+! [[Duty Roulette|Roulette]]
+! data-sort-type="number"| [[Tomestones]]
+! Unlock
+|-
+| [[The Dancing Plague (Extreme)]] || 80 || 430 || 8 || [[Titania]] || - || {{tomestone|allegory|15}}<br>{{tomestone|revelation|8}}  ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+| [[The Crown of the Immaculate (Extreme)]] || 80 || 430 || 8 || [[Innocence]] || - || {{tomestone|allegory|15}}<br>{{tomestone|revelation|8}}  || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+| [[The Akh Afah Amphitheatre (Unreal)]] || 80 || 430 || 8 || [[Shiva]] || - || {{tomestone|allegory|20}}<br>{{tomestone|revelation|10}}  || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Fantastic Mr. Faux]]
+|-
+| [[The Navel (Unreal)]] || 80 || 430 || 8 || [[Titan]] || - || {{tomestone|allegory|20}}<br>{{tomestone|revelation|10}}  || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Fantastic Mr. Faux]]
+|-
+| [[Minstrel's Ballad: Hades's Elegy]] || 80 || 450 || 8 || [[Hades]] || - || {{tomestone|allegory|20}}<br>{{tomestone|revelation|10}} || style="text-align: left" | [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+| [[Cinder Drift (Extreme)]] || 80 || 470 || 8 || [[Ruby Weapon]] || - || {{tomestone|allegory|25}}<br>{{tomestone|revelation|13}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+|  [[Memoria Misera (Extreme)]] || 80 || 470 || 8 || [[Varis]] || - || {{tomestone|allegory|20}}<br>{{tomestone|revelation|10}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Wandering Dramaturge]]
+|-
+|  [[The Seat of Sacrifice (Extreme)]] || 80 || 480 || 8 || [[Warrior of Light]] || - || {{tomestone|allegory|25}}<br>{{tomestone|revelation|14}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+| [[Castrum Marinum (Extreme)]] || 80 || 500 || 8 || [[The Emerald Weapon]] || - || {{tomestone|allegory|25}}<br>{{tomestone|revelation|15}} ||style="text-align: left" |  [[File:Featurequest.png|link=Feature Quest|25px|Feature Quest]][[Minstrel from Another Mother]]
+|-
+|}
+
+{{Duties nav|trial}}
+[[Category:Trial]]
